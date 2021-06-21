@@ -8,5 +8,8 @@
     <artifactId>netty-study</artifactId>
     <version>1.0.0-SNAPSHOT</version>
 
+    <description>
+        netty学习
+    </description>
 
 </project>
